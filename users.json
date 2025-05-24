@@ -1,0 +1,16 @@
+{
+    "adm": {
+        "nome": "adm",
+        "telefone": "0000-0000",
+        "idade": "30",
+        "senha": "$2b$12$ROCRZshkhMPV.8gHksHpyO6nXJ6AhF2NUGEF4phwiQ9EosgLVCAQ2",
+        "tipo": "adm"
+    },
+    "felipe": {
+        "nome": "felipe",
+        "telefone": "00000000",
+        "idade": "18",
+        "senha": "$2b$12$T86m.B6v5mql5L972CMWNOY1gPb2shxuQZRXaKMk7Pt9BnP9wTP0m",
+        "tipo": "aluno"
+    }
+}
